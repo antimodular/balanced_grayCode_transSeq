@@ -5,6 +5,9 @@ www.antimodular.com
 
 balanced gray code on arduino by using transition sequence
 
+by creating 21-bit binary numbers we can count up to 2097082 while each number has only one bit difference from the next number.
+
+
 
 read more about why balanced gray code is useful:
 http://en.wikipedia.org/wiki/Gray_code#Balanced_Gray_code
